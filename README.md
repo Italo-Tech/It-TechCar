@@ -1,4 +1,4 @@
-<img alt="Logo do projeto" width="200px" height="150" text-align="center" src="https://fontmeme.com/permalink/200728/1047830846e3902e3152e858171496a1.png"/>
+<img alt="Logo do projeto" width="200px" text-align="center" src="https://fontmeme.com/permalink/200728/1047830846e3902e3152e858171496a1.png"/>
 
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
