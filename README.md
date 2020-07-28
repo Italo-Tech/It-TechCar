@@ -1,4 +1,5 @@
 # It-TechCar
+<img alt="Logo do projeto" width="150px" src="https://fontmeme.com/permalink/200728/1047830846e3902e3152e858171496a1.png" />
 
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
