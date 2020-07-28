@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  🚀 Imersão React
+  Imersão React
 </h2>
 
 ## Em Desenvolvimento
