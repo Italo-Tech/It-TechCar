@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Menu.css';
 
 //Style components
@@ -9,11 +10,11 @@ function Menu() {
     return (
         <nav className="Menu">
 
-            <a href="/">
+            <Link to="/">
                 <Logoo alt="TESTE" />
-            </a>
+            </Link>
 
-            <Button as="a" className="ButtonLink" href="/">
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
                 New video
              </Button>
 

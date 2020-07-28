@@ -1,6 +1,5 @@
 import React from 'react';
 import { FooterBase } from './styles';
-import Logotipo from '../../assets/img/Logo.png'
 import Logo from '../Menu/Logo/index';
 
 function Footer() {

@@ -15,7 +15,7 @@
   padding-right: 5%;
 
   background-color: var(--black);
-  border-bottom: 4px solid var(--primary);
+  border-bottom: 3px solid var(--primary);
 }
 body {
   --bodyPaddingTop: 94px;
