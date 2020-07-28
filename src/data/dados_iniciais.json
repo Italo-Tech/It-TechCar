@@ -1,123 +1,134 @@
 {
     "categorias": [
         {
-            "titulo": "Front End",
-            "link": "https://www.alura.com.br/formacao-front-end",
+            "titulo": "Technological Cars",
             "cor": "#6BD1FF",
-            "link_extra": {
-                "text": "Formação de Front End na Alura",
-                "url": "https://www.alura.com.br/cursos-online-front-end"
-            },
             "videos": [
                 {
-                    "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-                    "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+                    "titulo": "Find out more about the world of cars",
+                    "url": "https://www.youtube.com/watch?v=H-jSXjPXJd4"
                 },
                 {
-                    "titulo": "SEO com React",
-                    "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+                    "titulo": "Mars Rover Vehicle",
+                    "url": "https://www.youtube.com/watch?v=fZddqJ7y5TI"
                 },
                 {
-                    "titulo": "Componentização com VanillaJS #AluraMais",
-                    "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+                    "titulo": "Renault Float",
+                    "url": "https://www.youtube.com/watch?v=B6K-yQaWgTw"
                 },
                 {
-                    "titulo": "Pare de chutar e aprenda a display: inline #01",
-                    "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+                    "titulo": "Terrafugia TF-X",
+                    "url": "https://www.youtube.com/watch?v=wHJTZ7k0BXU"
                 },
                 {
-                    "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-                    "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+                    "titulo": "SHERP New",
+                    "url": "https://www.youtube.com/watch?v=nbS6WbpmIlk"
                 },
                 {
-                    "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-                    "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+                    "titulo": "Mercedes-Benz F 015",
+                    "url": "https://www.youtube.com/watch?v=MaGb3570K1U"
                 },
                 {
-                    "titulo": "Novidades do Angular v9",
-                    "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+                    "titulo": "Opel Alcyone",
+                    "url": "https://www.youtube.com/watch?v=BT4VMGn588A"
                 },
                 {
-                    "titulo": "Base para aprender os frameworks",
-                    "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+                    "titulo": "ARMORTRUCK SUV Concept",
+                    "url": "https://www.youtube.com/watch?v=KjyU4lfFzmo"
                 }
             ]
         },
         {
-            "titulo": "Back End",
+            "titulo": "Classic Cars",
             "cor": "#00C86F",
-            "link_extra": {
-                "text": "Cursos de Back End na Alura",
-                "url": "https://www.alura.com.br/cursos-online-programacao"
-            },
             "videos": [
                 {
-                    "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-                    "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+                    "titulo": "Chevrolet El Camino",
+                    "url": "https://www.youtube.com/watch?v=Y3Xf5Dh5dGM"
                 },
                 {
-                    "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-                    "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+                    "titulo": "Plymouth GTX",
+                    "url": "https://www.youtube.com/watch?v=-x4nnuME6Qc"
                 },
                 {
-                    "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-                    "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+                    "titulo": "Pontiac GTO",
+                    "url": "https://www.youtube.com/watch?v=mOIUnGEYbIc"
                 },
                 {
-                    "titulo": "API: Dicionário do Programador",
-                    "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+                    "titulo": "Chevrolet Opala Comodoro",
+                    "url": "https://www.youtube.com/watch?v=TzadHXKMhNY"
                 },
                 {
-                    "titulo": "Usando Git Direito",
-                    "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+                    "titulo": "Chevy Impala 67",
+                    "url": "https://www.youtube.com/watch?v=nAYyx2_jBOc"
+                },
+                {
+                    "titulo": "1968 Dodge Charger",
+                    "url": "https://www.youtube.com/watch?v=nxr-qBLmPcs"
+                },
+                {
+                    "titulo": "Chevy Impala 67",
+                    "url": "https://www.youtube.com/watch?v=nAYyx2_jBOc"
                 }
             ]
         },
         {
-            "titulo": "Data Science e Inteligência Artificial",
+            "titulo": "More Expensive Cars",
             "cor": "#9cd33b",
-            "link_extra": {
-                "text": "Cursos de Data Science na Alura",
-                "url": "https://www.alura.com.br/formacao-data-science"
-            },
             "videos": [
                 {
-                    "titulo": "Teste de Turing",
-                    "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+                    "titulo": "McLaren P1 GTR",
+                    "url": "https://www.youtube.com/watch?v=lxNUFWs2VBw"
                 },
                 {
-                    "titulo": "O que é Data Science?",
-                    "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+                    "titulo": "LAMBORGHINI VENENO",
+                    "url": "https://www.youtube.com/watch?v=EcHQtKd_31Y"
                 },
                 {
-                    "titulo": "Melhor forma de aprender Python",
-                    "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+                    "titulo": "Bugatti Divo",
+                    "url": "https://www.youtube.com/watch?v=PwxPLKVne2s"
                 },
                 {
-                    "titulo": "Como ingressar no mercado de Data Science?",
-                    "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+                    "titulo": "Maybach Exelero",
+                    "url": "https://www.youtube.com/watch?v=D3GK7R00-Ik"
+                },
+                {
+                    "titulo": "Rolls Royce Phantom",
+                    "url": "https://www.youtube.com/watch?v=BBGJGxSB2bA"
+                },
+                {
+                    "titulo": "Bugatti La Voiture Noire",
+                    "url": "https://www.youtube.com/watch?v=3SNrG68H0SQ"
                 }
             ]
         },
         {
-            "titulo": "Filmes",
+            "titulo": "Luxury Cars",
             "cor": "orange",
             "videos": [
                 {
-                    "titulo": "Interestellar",
-                    "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+                    "titulo": "Pagani Huayra Roadster",
+                    "url": "https://www.youtube.com/watch?v=THC4i2tS0Jw"
                 },
                 {
-                    "titulo": "Gattaca",
-                    "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+                    "titulo": "LaFerrari Aperta",
+                    "url": "https://www.youtube.com/watch?v=bYqEWVHQ-2k"
                 },
                 {
-                    "titulo": "A Chegada",
-                    "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+                    "titulo": "Buggati Chiron",
+                    "url": "https://www.youtube.com/watch?v=lKFU6SLf_v4"
                 },
                 {
-                    "titulo": "Feitiço do Tempo",
-                    "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+                    "titulo": "Gold Lamborghini",
+                    "url": "https://www.youtube.com/watch?v=EBO7BMaS20s"
+                },
+                {
+                    "titulo": "Roll-Royce Wraith Luminary",
+                    "url": "https://www.youtube.com/watch?v=dN22YjH8kFo"
+                },
+                {
+                    "titulo": "Maserati Quattroporte S Q4",
+                    "url": "https://www.youtube.com/watch?v=5EZ2HQpoNBM"
                 }
             ]
         },
@@ -125,29 +136,36 @@
             "titulo": "Games",
             "cor": "red",
             "link_extra": {
-                "text": "Formação de Jogos na Alura",
-                "url": "https://www.alura.com.br/formacao-jogos-unity"
+                "text": "Games Favoritos"
             },
             "videos": [
                 {
-                    "titulo": "Final Fantasy 7",
-                    "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+                    "titulo": "League of Legends",
+                    "url": "https://www.youtube.com/watch?v=vzHrjOMfHPY"
                 },
                 {
-                    "titulo": "Assassins Creed Valhalla",
-                    "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+                    "titulo": "Valorant",
+                    "url": "https://www.youtube.com/watch?v=PIA7AebJA34"
                 },
                 {
-                    "titulo": "God of War 4",
-                    "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+                    "titulo": "Arma 3",
+                    "url": "https://www.youtube.com/watch?v=YoYMrJdLrDE"
                 },
                 {
-                    "titulo": "Resident Evil 8",
-                    "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+                    "titulo": "Heroes & Generals",
+                    "url": "https://www.youtube.com/watch?v=J8aU08c1zHY"
                 },
                 {
-                    "titulo": "Pokémon Let's Go Pikachu/Eevee",
-                    "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+                    "titulo": "Team Fortress 2",
+                    "url": "https://www.youtube.com/watch?v=N7ZafWA2jd8"
+                },
+                {
+                    "titulo": "Euro Truck",
+                    "url": "https://www.youtube.com/watch?v=xlTuC18xVII"
+                },
+                {
+                    "titulo": "Sniper Elite",
+                    "url": "https://www.youtube.com/watch?v=lGBRAEvXZ94"
                 }
             ]
         },
@@ -155,7 +173,7 @@
             "titulo": "Aprendendo a aprender tecnologia",
             "cor": "#6b5be2",
             "link_extra": {
-                "text": "Curso sobre aprendizado na Alura",
+                "text": "Curso sobre aprendizado",
                 "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
             },
             "videos": [
