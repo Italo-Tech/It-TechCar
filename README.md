@@ -1,12 +1,9 @@
-# It-TechCar
-
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
 </p>
 
-<h2 align="center">
-  🚀 Imersão React
-</h2>
+
+<img align="center" alt="Logo do projeto" width="250px" src="https://fontmeme.com/permalink/200728/9591ce62d712e36e5b81ff42ab027b4a.png"/>
 
 ## Em Desenvolvimento
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/) 
