@@ -31,18 +31,19 @@ function CadastroCategoria() {
     }
 
     useEffect(() => {
-        if (window.location.href.includes('localhost')) {
-            const URL = 'http://localhost:8080/categorias';
-            fetch(URL)
-                .then(async (respostaDoServer) => {
-                    if (respostaDoServer.ok) {
-                        const resposta = await respostaDoServer.json();
-                        setCategorias(resposta);
-                        return;
-                    }
-                    throw new Error('Não foi possível pegar os dados');
-                });
-        }
+        const URL = (window.location.hostname.includes('localhost'))
+            ? 'http://localhost:8080/categorias'
+            : 'https://it-techcar.herokuapp.com/categorias';
+        fetch(URL)
+            .then(async (respostaDoServer) => {
+                if (respostaDoServer.ok) {
+                    const resposta = await respostaDoServer.json();
+                    setCategorias(resposta);
+                    return;
+                }
+                throw new Error('Não foi possível pegar os dados');
+            });
+
     }, []);
 
     return (
