@@ -1,21 +1,231 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "titulo": "Technological Cars",
-            "cor": "#6BD1FF",
-            "link_extra": {
-                "text": "Os carros mais tecnológicos do mundo",
-                "url": "https://www.alura.com.br/cursos-online-front-end"
-            }
-        }
-    ],
-    "videos": [
-        {
-            "id": 1,
-            "categoriaId": 1,
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 6,
+      "titulo": "Classic Cars",
+      "cor": "#ff6a00"
+    },
+    {
+      "id": 5,
+      "titulo": "Luxury Cars",
+      "cor": "#7FFF00"
+    },
+    {
+      "id": 4,
+      "titulo": "More Expensive Cars",
+      "cor": "#FFD700"
+    },
+    {
+      "id": 3,
+      "titulo": "Technological Cars",
+      "cor": "#00BFFF"
+    }
+  ],
+  "videos": [
+    {
+      "id": 50,
+      "categoriaId": 6,
+      "description": "Conheça os carros mais luxuosos e raros do mundo",
+      "titulo": "Bugatti Divo",
+      "url": "https://www.youtube.com/watch?v=PwxPLKVne2s"
+    },
+    {
+      "id": 51,
+      "categoriaId": 3,
+      "titulo": "Mars Rover Vehicle",
+      "url": "https://www.youtube.com/watch?v=fZddqJ7y5TI"
+    },
+    {
+      "id": 1,
+      "categoriaId": 3,
+      "titulo": "Renault Float",
+      "url": "https://www.youtube.com/watch?v=B6K-yQaWgTw"
+    },
+    {
+      "id": 2,
+      "categoriaId": 3,
+      "titulo": "Terrafugia TF-X",
+      "url": "https://www.youtube.com/watch?v=wHJTZ7k0BXU"
+    },
+    {
+      "id": 3,
+      "categoriaId": 3,
+      "titulo": "SHERP New",
+      "url": "https://www.youtube.com/watch?v=nbS6WbpmIlk"
+    },
+    {
+      "id": 4,
+      "categoriaId": 3,
+      "titulo": "Mercedes-Benz F 015",
+      "url": "https://www.youtube.com/watch?v=MaGb3570K1U"
+    },
+    {
+      "id": 5,
+      "categoriaId": 3,
+      "titulo": "Opel Alcyone",
+      "url": "https://www.youtube.com/watch?v=BT4VMGn588A"
+    },
+    {
+      "id": 6,
+      "categoriaId": 3,
+      "titulo": "ARMORTRUCK SUV Concept",
+      "url": "https://www.youtube.com/watch?v=KjyU4lfFzmo"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Novidades do Angular v9",
+      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "API: Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Usando Git Direito",
+      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+    },
+    {
+      "id": 13,
+      "categoriaId": 5,
+      "titulo": "Pagani Huayra Roadster",
+      "url": "https://www.youtube.com/watch?v=THC4i2tS0Jw"
+    },
+    {
+      "id": 14,
+      "categoriaId": 5,
+      "titulo": "LaFerrari Aperta",
+      "url": "https://www.youtube.com/watch?v=bYqEWVHQ-2k"
+    },
+    {
+      "id": 15,
+      "categoriaId": 5,
+      "titulo": "Buggati Chiron",
+      "url": "https://www.youtube.com/watch?v=lKFU6SLf_v4"
+    },
+    {
+      "id": 16,
+      "categoriaId": 5,
+      "titulo": "Gold Lamborghini",
+      "url": "https://www.youtube.com/watch?v=EBO7BMaS20s"
+    },
+    {
+      "id": 16,
+      "categoriaId": 5,
+      "titulo": "Roll-Royce Wraith Luminary",
+      "url": "https://www.youtube.com/watch?v=dN22YjH8kFo"
+    },
+    {
+      "id": 16,
+      "categoriaId": 5,
+      "titulo": "Maserati Quattroporte S Q4",
+      "url": "https://www.youtube.com/watch?v=5EZ2HQpoNBM"
+    },
+    {
+      "id": 19,
+      "categoriaId": 5,
+      "titulo": "LAMBORGHINI VENENO",
+      "url": "https://www.youtube.com/watch?v=EcHQtKd_31Y"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "McLaren P1 GTR",
+      "url": "https://www.youtube.com/watch?v=lxNUFWs2VBw"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "url": "https://www.youtube.com/watch?v=H-jSXjPXJd4",
+      "titulo": "Lamborghini Veneno"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Maybach Exelero",
+      "url": "https://www.youtube.com/watch?v=D3GK7R00-Ik"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Rolls Royce Phantom",
+      "url": "https://www.youtube.com/watch?v=BBGJGxSB2bA"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Bugatti La Voiture Noire",
+      "url": "https://www.youtube.com/watch?v=3SNrG68H0SQ"
+    },
+    {
+      "id": 21,
+      "categoriaId": 6,
+      "titulo": "Chevrolet El Camino",
+      "url": "https://www.youtube.com/watch?v=Y3Xf5Dh5dGM"
+    },
+    {
+      "id": 22,
+      "categoriaId": 6,
+      "titulo": "Plymouth GTX",
+      "url": "https://www.youtube.com/watch?v=-x4nnuME6Qc"
+    },
+    {
+      "id": 23,
+      "categoriaId": 6,
+      "titulo": "Pontiac GTO",
+      "url": "https://www.youtube.com/watch?v=mOIUnGEYbIc"
+    },
+    {
+      "id": 24,
+      "categoriaId": 6,
+      "titulo": "Chevrolet Opala Comodoro",
+      "url": "https://www.youtube.com/watch?v=TzadHXKMhNY"
+    },
+    {
+      "id": 52,
+      "categoriaId": 6,
+      "titulo": "Chevy Impala 67",
+      "url": "https://www.youtube.com/watch?v=nAYyx2_jBOc"
+    },
+    {
+      "titulo": "1968 Dodge Charger",
+      "url": "https://www.youtube.com/watch?v=nxr-qBLmPcs",
+      "categoriaId": 6,
+      "id": 54
+    },
+    {
+      "titulo": "Ferrari 458 Italia",
+      "url": "https://www.youtube.com/watch?v=0dbIrT_wZ3A",
+      "categoriaId": 5,
+      "id": 55
+    },
+    {
+      "titulo": "Restmod Chevrolet Opala - Extinction",
+      "url": "https://www.youtube.com/watch?v=8aXgbcDnblg",
+      "categoriaId": 6,
+      "id": 56
+    }
+  ]
 }

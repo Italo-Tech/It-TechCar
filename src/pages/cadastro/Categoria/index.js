@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Menu/Button';
+import useForm from '../../../hooks/useForm';
+import categoriasRepository from '../../../repositories/categorias';
 
 function CadastroCategoria() {
     const valoresIniciais = {
@@ -11,40 +13,23 @@ function CadastroCategoria() {
         cor: '',
     };
 
+    const { handleChange, values, clearForm } = useForm(valoresIniciais);
+
     const [categorias, setCategorias] = useState([]);
-    const [values, setValues] = useState(valoresIniciais);
 
-    function setValue(chave, valor) {
-        // chave: nome, descricao
-        setValues({
-            ...values,
-            [chave]: valor, // nome: 'valor'
-        });
-    }
 
-    function handleChange(infoDoEvento) {
-        setValue(
-            infoDoEvento.target.getAttribute('name'),
-            infoDoEvento.target.value,
-
-        );
-    }
 
     useEffect(() => {
-        const URL = (window.location.hostname.includes('localhost'))
-            ? 'http://localhost:8080/categorias'
-            : 'https://it-techcar.herokuapp.com/categorias';
-        fetch(URL)
-            .then(async (respostaDoServer) => {
-                if (respostaDoServer.ok) {
-                    const resposta = await respostaDoServer.json();
-                    setCategorias(resposta);
-                    return;
-                }
-                throw new Error('Não foi possível pegar os dados');
-            });
+        categoriasRepository.getAllWithVideos();
 
-    }, []);
+        // fetch(URL_BACKEND_TOP)
+        //     .then(async (respostaDoServer) => {
+        //         // const resposta = await respostaDoServer.json();
+        //         // setCategorias([
+        //         //     ...resposta,
+        //         // ]);
+        //     });
+    });
 
     return (
         <PageDefault>
@@ -60,7 +45,7 @@ function CadastroCategoria() {
                     values,
                 ]);
 
-                setValues(valoresIniciais);
+                clearForm();
             }}
             >
 
@@ -103,7 +88,7 @@ function CadastroCategoria() {
             <ul>
                 {categorias.map((categoria, indice) => (
                     <li key={`${categoria}${indice}`}>
-                        {categoria.nome}
+                        {categoria.titulo}
                     </li>
                 ))}
             </ul>

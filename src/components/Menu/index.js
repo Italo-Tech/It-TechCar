@@ -11,7 +11,7 @@ function Menu() {
         <nav className="Menu">
 
             <Link to="/">
-                <Logoo alt="TESTE" />
+                <Logoo />
             </Link>
 
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
