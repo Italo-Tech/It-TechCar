@@ -1,7 +1,7 @@
 <h1 align="left">
   It-TechCar | Repositório de vídeos
 </h1>
-- [Acesse It-TechCar](https://it-tech-car.vercel.app/)
+> [Acesse It-TechCar](https://it-tech-car.vercel.app/)
 
 <h3 align="left">Resumo:</h3>
 <p align="left">Projeto criado durante a #ImersãoReact da Alura, que consiste-se em um acervo de vídeos do YouTube escolhidos pelo usuário. Criei o It-TechCar, uma coletânea de vídeos de Carros.</p>
