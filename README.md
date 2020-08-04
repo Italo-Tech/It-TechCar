@@ -9,11 +9,6 @@
 <p align="left">Além do ReactJS, utilizamos JavaScript, Styled Components, CSS, React Slick, React Router Dom, Prop Types, JSON Server e Node.js.</p>
 <img src="https://euwilliamgoncalves.github.io/img/portfolio/012/image02.png" width="650" />
 
-<p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
-</p>
-
-
 <img align="center" alt="Logo do projeto" width="250px" src="https://fontmeme.com/permalink/200728/9591ce62d712e36e5b81ff42ab027b4a.png"/>
 
 ## Em Aprimoramento
