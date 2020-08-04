@@ -34,9 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e Libs:
 
 <h3 align="left">Responsividade:</h3>
 <p align="left">O projeto foi estilizado para se adequar a dispositivos móveis, mantendo seu aspecto original e ajustando alguns pontos, como o link 'Novo Vídeo', a fim de garantir uma boa experiência ao usuário.</p>
-<img src="./src/assets/img/it-techcar-responsive.png" width="300" />
-<img src="./src/assets/img/it-techcar2.png" width=40%" />
-<img src="./src/assets/it-techcar-form.png" width="80%" />
+<img src="./src/assets/img/it-techcar-responsive.png" width="300" /> <img src="./src/assets/img/it-techcar2.png" width=50%" />
+<img src="./src/assets/it-techcar-form.png" width="300" />
 
 ## Como rodar o projeto?
 
