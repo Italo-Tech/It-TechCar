@@ -7,7 +7,7 @@
 
 <h3 align="left">Recursos utilizados:</h3>
 <p align="left">Além do ReactJS, utilizamos JavaScript, Styled Components, CSS, React Slick, React Router Dom, Prop Types, JSON Server e Node.js.</p>
-<img src=".src/assets/img/it-techcar-techs.png" width="650" />
+<img src="./src/assets/img/it-techcar-techs.png" width="650" />
 
 
 ## Em Aprimoramento
