@@ -4,6 +4,7 @@
 
 <h3 align="left">Resumo:</h3>
 <p align="left">Projeto criado durante a #ImersãoReact da Alura, que consiste-se em um acervo de vídeos do YouTube escolhidos pelo usuário. Criei o It-TechCar, uma coletânea de vídeos de Carros.</p>
+<img src="./src/assets/img/it-techcar.png" width="650" />
 
 <h3 align="left">Recursos utilizados:</h3>
 <p align="left">Além do ReactJS, utilizamos JavaScript, Styled Components, CSS, React Slick, React Router Dom, Prop Types, JSON Server e Node.js.</p>
@@ -33,7 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e Libs:
 
 <h3 align="left">Responsividade:</h3>
 <p align="left">O projeto foi estilizado para se adequar a dispositivos móveis, mantendo seu aspecto original e ajustando alguns pontos, como o link 'Novo Vídeo', a fim de garantir uma boa experiência ao usuário.</p>
-<img src="https://euwilliamgoncalves.github.io/img/portfolio/012/image04.png" width="650" />
+<img src="./src/assets/img/it-techcar-responsive.png" width="100%" />
+<img src="./src/assets/img/it-techcar2.png" width="100%" />
 
 ## Como rodar o projeto?
 
