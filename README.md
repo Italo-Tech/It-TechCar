@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e Libs:
 
 <p align="center">
 <img src="./src/assets/img/it-techcar-responsive.png" width="30%" /> 
-<img src="./src/assets/img/it-techcar-form.png" width=300" />
+<img src="./src/assets/img/it-techcar-form.png" width=30%" />
 <img src="./src/assets/img/it-techcar2.png" width="60%" />
 </p>
 
