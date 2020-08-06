@@ -21,20 +21,12 @@ function CadastroCategoria() {
 
     useEffect(() => {
         categoriasRepository.getAllWithVideos();
-
-        // fetch(URL_BACKEND_TOP)
-        //     .then(async (respostaDoServer) => {
-        //         // const resposta = await respostaDoServer.json();
-        //         // setCategorias([
-        //         //     ...resposta,
-        //         // ]);
-        //     });
     });
 
     return (
         <PageDefault>
             <h1>
-                Cadastro de Categoria:
+                Category registration:
         {values.nome}
             </h1>
 
@@ -50,7 +42,7 @@ function CadastroCategoria() {
             >
 
                 <FormField
-                    label="Nome da Categoria"
+                    label="Category Name"
                     type="text"
                     name="nome"
                     value={values.nome}
@@ -59,7 +51,7 @@ function CadastroCategoria() {
 
                 {/* Descrição */}
                 <FormField
-                    label="Descrição"
+                    label="Description"
                     type="textarea"
                     name="descricao"
                     value={values.descricao}
@@ -67,7 +59,7 @@ function CadastroCategoria() {
                 />
 
                 <FormField
-                    label="Cor"
+                    label="Color"
                     type="color"
                     name="cor"
                     value={values.cor}
@@ -75,7 +67,7 @@ function CadastroCategoria() {
                 />
 
                 <Button>
-                    Cadastrar
+                    Register
                 </Button>
             </form>
 
@@ -94,7 +86,7 @@ function CadastroCategoria() {
             </ul>
 
             <Link to="/">
-                Ir para home
+                Go to home screen
       </Link>
         </PageDefault>
     );

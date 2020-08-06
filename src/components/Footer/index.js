@@ -8,10 +8,11 @@ function Footer() {
             <Logo />
 
             <p>
-                Orgulhosamente criado durante a
+                Proudly created during the
+
         {' '}
                 <a href="https://www.alura.com.br/">
-                    Imersão React da Alura
+                    Immersion React Alura
         </a>
             </p>
         </FooterBase>
